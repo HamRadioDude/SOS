@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Emergency Medical Information</string>
+    <string name="txt_Name">Name:  Sean Klechak</string>
+    <string name="txt_Address">Address: 222 2nd Cir</string>
+    <string name="txtAddress2">         McHenry, IL 60050</string>
+    <string name="txt_allergies">Allergies: Penicillin </string>
+    <string name="txtBloodType"> Blood Type: O+</string>
+    <string name="txtMedicalConditions">Medical Conditions:  High BP</string>
+    <string name="txtMedications">Medications: None</string>
+    <string name="txtEmergencyContact">Emergency Contact: John Doe</string>
+    <string name="txt_ECAddress">8643 North Second Street</string>
+    <string name="txt_ECNumber">Phone Number: 867-5309</string>
+    <string name="txt_GeneralNotes">NOTES:  I live with one child and one dog who both need care for.  If you cannot make contact with my Emergency Contact, please contact the xxx police department to get proper care for my child.</string>
+    </resources>
